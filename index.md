@@ -13,7 +13,7 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 ### How to post your talk on the schedule
 
 1. Fork the JCN-FDU repository.
-2. Post your talk by modifying the [webpage](https://github.com/LingweiZhang/JCN-FDU/index.md) and adding related materials about your talk into the [2020Spring](https://github.com/LingweiZhang/JCN-FDU/2020Spring/) folder.
+2. Post your talk by modifying the [index.md](https://github.com/LingweiZhang/JCN-FDU) and adding related materials about your talk into the [2020Spring](https://github.com/LingweiZhang/JCN-FDU) folder.
 3. Submit a pull request for your modification.
 
 
