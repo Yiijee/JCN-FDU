@@ -1,6 +1,6 @@
 ## Welcome to Journal Club on Neuroscience @FDU
 
-Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activity of [FDU](http://www.fudan.edu.cn) URFB (Undergraduate Research Forum in Biology). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
+Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activity of URFB (Undergraduate Research Forum in Biology) at [FDU](http://www.fudan.edu.cn). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
 
 ### Scheduled for 2020 Spring
 
@@ -10,9 +10,12 @@ Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activi
 1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://github.com/LingweiZhang/JCN/2020Spring/01/).
 
 
-### Our mission
+### How to post your talk on the schedule
 
-I don't really know.
+1. Fork the JCN-FDU repository.
+2. Post your talk by modifying the [webpage](https://github.com/LingweiZhang/JCN-FDU/index.md) and adding related materials about your talk into the [2020Spring](https://github.com/LingweiZhang/JCN-FDU/2020Spring/) folder.
+3. Submit a pull request for your modification.
+
 
 ### Support or Contact
 
