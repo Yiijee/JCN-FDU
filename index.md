@@ -1,6 +1,6 @@
-## Welcome to Journal Club with specialization in Neuroscience
+## Welcome to Journal Club on Neuroscience @FDU
 
-Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activity of FDU URPB (Undergraduate Research Program in Biology). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
+Journal Club with specialization in Neuroscience (JCR) is an in-the-flash activity of [FDU](http://www.fudan.edu.cn) URPB (Undergraduate Research Program in Biology). Each week, an undergraduate student in FDU will share others with recent research or independent projects about neuroscience.
 
 ### Scheduled for 2020 Spring
 
